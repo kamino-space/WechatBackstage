@@ -1,0 +1,16 @@
+{
+  "name": "webapp测试",
+  "version": "1.0",
+  "icon": "icon.jpg",
+  "index": "aa.php",
+  "js": [
+    "js/test.js",
+    "js/test2.js"
+  ],
+  "css": [
+    "css/stt.css"
+  ],
+  "jpg": [
+    "icon.jpg"
+  ]
+}

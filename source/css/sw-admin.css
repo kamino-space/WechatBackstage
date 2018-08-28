@@ -1,0 +1,13 @@
+.k-foot {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.k-foot a {
+    color: #777;
+}
+
+.k-foot a:hover {
+    text-decoration: none;
+}
