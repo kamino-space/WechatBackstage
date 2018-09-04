@@ -9,7 +9,7 @@
 
 function tulingAI( $text, $uid ) {
 	$url   = "http://www.tuling123.com/openapi/api";
-	$key   = "7d83ee1868714f6aae96130e34e65313";
+	$key   = "";
 	$loc   = "";
 	$uid   = substr( $uid, 5, 5 );
 	$value = "key=$key&info=$text&loc=$loc&userid=$uid";
